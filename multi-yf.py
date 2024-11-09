@@ -8,7 +8,7 @@ import pandas as pd
 import pandas_ta as ta
 #import talib
 from lightweight_charts import Chart
-import plotly.graph_objs as go
+#import plotly.graph_objs as go
 from fel_indicadores import Indicador_fel
 
 
