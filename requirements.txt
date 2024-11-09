@@ -5,6 +5,5 @@ streamlit
 yfinance
 pandas_ta
 lightweight_charts
-numpy
+numpy==1.26.3
 pyqt5
-
