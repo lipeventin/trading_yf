@@ -6,7 +6,7 @@ import numpy as np
 import yfinance as yf
 import pandas as pd
 import pandas_ta as ta
-import talib
+#import talib
 from lightweight_charts import Chart
 import plotly.graph_objs as go
 from fel_indicadores import Indicador_fel
