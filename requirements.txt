@@ -1,0 +1,11 @@
+bokeh
+pandas
+streamlit_lightweight_charts
+streamlit 
+yfinance
+pandas_ta
+lightweight_charts
+TA-Lib
+numpy
+pyqt5
+
